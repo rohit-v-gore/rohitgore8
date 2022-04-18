@@ -1,6 +1,6 @@
 rohitgore8/README.md
 
-Hi, I’m @rohitgore8. I'm a second year student at UCLA majoring in Computer Science and minoring in Entrepreneuership.
+Hi, I’m @rohit-v-gore. I'm a second year student at UCLA majoring in Computer Science and minoring in Entrepreneuership.
 
 I’m interested in software engineering, data anlysis, product engineering and aritifical intelligence.
 
